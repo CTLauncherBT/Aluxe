@@ -2,7 +2,7 @@
 
 
 Aluxe is an hack client for **Roblox**
-the Client has Aimbot, ESP, more
+the Client has Aimbot, ESP, and more
 
 **still in development...**
 
